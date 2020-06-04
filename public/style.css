@@ -1,0 +1,14 @@
+h1 {
+    font-weight: lighter;
+    font-style: italic;
+  }
+
+  .dark {
+    background-color: #21262d;
+    color: #fefdee;
+    text-align: center;
+  }
+  .dark a {
+    text-decoration: none;
+    color: #fefdee;
+  }
